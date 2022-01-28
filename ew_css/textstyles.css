@@ -1,0 +1,124 @@
+.para1{font-size: 0; text-align:center; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style2{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 10px; 
+ font-weight:500; 
+ letter-spacing: 0.1em; 
+ word-wrap: break-word;}
+.linkStyle_3{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 10px; 
+ font-weight:500; 
+ color: #000000;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #000000 #919191 */
+ letter-spacing: 0.1em; 
+ word-wrap: break-word;}
+.linkStyle_3:visited{color:#000000; text-decoration:none;}
+.linkStyle_3:hover{color:#919191; text-decoration:none;}
+.para6{font-size: 0; text-align:left; padding-bottom:7px; margin-top:0px; padding-top:0px;}
+.Style7{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ word-wrap: break-word;}
+.Style8{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ margin:0;
+ word-wrap: break-word;}
+.Style9{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:500; 
+ color: #FEFEFF;
+ letter-spacing: 0.1em; 
+ word-wrap: break-word;}
+.para10{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style11{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+ font-size: 20px; 
+ font-weight:500; 
+ word-wrap: break-word;}
+.Style12{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:500; 
+ word-wrap: break-word;}
+.Style13{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:500; 
+ color: #FEFEFF;
+ word-wrap: break-word;}
+.Style14{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:500; 
+ color: #FEFEFE;
+ letter-spacing: 0.1em; 
+ word-wrap: break-word;}
+.Style15{font-family:  'AvenirNext-Regular', 'Avenir Next' ;
+ font-size: 16px; 
+ word-wrap: break-word;}
+.linkStyle_16{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ color: #000000;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #000000 #D5D5D5 */
+ background-color: #FFFEFE; 
+ word-wrap: break-word;}
+.linkStyle_16:visited{color:#000000; text-decoration:none;}
+.linkStyle_16:hover{color:#D5D5D5; text-decoration:none;}
+.linkStyle_19{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ font-style: italic;
+ color: #000000;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #000000 #D5D5D5 */
+ background-color: #FFFEFE; 
+ word-wrap: break-word;}
+.linkStyle_19:visited{color:#000000; text-decoration:none;}
+.linkStyle_19:hover{color:#D5D5D5; text-decoration:none;}
+.Style22{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ background-color: #FFFEFE; 
+ word-wrap: break-word;}
+.Style23{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:700; 
+ margin:0;
+ word-wrap: break-word;}
+.Style24{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+ font-size: 24px; 
+ font-weight:500; 
+ word-wrap: break-word;}
+.Style25{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:500; 
+ margin:0;
+ word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.para29{font-size: 0; text-align:right; padding-bottom:4px; margin-top:0px; padding-top:0px;}
+.para30{font-size: 0; text-align:right; padding-bottom:4px; padding-top:7px;}
+.para31{font-size: 0; text-align:right; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.linkStyle_32{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 10px; 
+ font-weight:500; 
+ color: #000000;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #000000 #919191 */
+ letter-spacing: 0.15em; 
+ word-wrap: break-word;}
+.linkStyle_32:visited{color:#000000; text-decoration:none;}
+.linkStyle_32:hover{color:#919191; text-decoration:none;}
+.para35{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style36{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ font-style: italic;
+ color: #444444;
+ background-color: #FFFEFE; 
+ word-wrap: break-word;}
+.Style37{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ font-style: italic;
+ word-wrap: break-word;}
