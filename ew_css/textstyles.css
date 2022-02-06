@@ -105,3 +105,21 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.linkStyle_32{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 9px; 
+ font-weight:500; 
+ color: #000000;
+ text-decoration: none; 
+ /* 1 1 0 #00F900 #000000 #919191 */
+ letter-spacing: 0.15em; 
+ word-wrap: break-word;}
+.linkStyle_32:visited{color:#000000; text-decoration:none;}
+.linkStyle_32:hover{color:#919191; text-decoration:none;}
+.linkStyle_35{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 9px; 
+ font-weight:500; 
+ margin:0;
+ letter-spacing: 0.15em; 
+ word-wrap: break-word;}
+.linkStyle_35:visited{color:#000000; text-decoration:none;}
+.linkStyle_35:hover{color:#919191; text-decoration:none;}
