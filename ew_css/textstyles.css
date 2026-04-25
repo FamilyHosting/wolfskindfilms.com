@@ -1,6 +1,6 @@
 .para1{font-size: 0; text-align:right; padding-bottom:0px; margin-top:0px; padding-top:0px;}
 .linkStyle_2{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
- font-size: 10px; 
+ font-size: 9px; 
  font-weight:500; 
  color: #000000;
  text-decoration: none; 
@@ -9,95 +9,99 @@
  word-wrap: break-word;}
 .linkStyle_2:visited{color:#000000; text-decoration:none;}
 .linkStyle_2:hover{color:#919191; text-decoration:none;}
-.para5{font-size: 0; text-align:left; padding-bottom:7px; margin-top:0px; padding-top:0px;}
-.Style6{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+.linkStyle_5{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+ font-size: 9px; 
+ font-weight:500; 
+ margin:0;
+ letter-spacing: 0.15em; 
+ word-wrap: break-word;}
+.linkStyle_5:visited{color:#000000; text-decoration:none;}
+.linkStyle_5:hover{color:#919191; text-decoration:none;}
+.para8{font-size: 0; text-align:left; padding-bottom:7px; margin-top:0px; padding-top:0px;}
+.Style9{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
  word-wrap: break-word;}
-.Style7{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+.Style10{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
  margin:0;
  word-wrap: break-word;}
-.Style8{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+.Style11{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:500; 
  word-wrap: break-word;}
-.para9{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
-.Style10{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.para12{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style13{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #FEFEFF;
  letter-spacing: 0.1em; 
  word-wrap: break-word;}
-.para11{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
-.Style12{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+.para14{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style15{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
  font-size: 20px; 
  font-weight:500; 
  word-wrap: break-word;}
-.Style13{font-family:  'AvenirNext-Regular', 'Avenir Next' ;
+.Style16{font-family:  'AvenirNext-Regular', 'Avenir Next' ;
  font-size: 16px; 
+ font-weight:normal; 
  word-wrap: break-word;}
-.Style14{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style17{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #FEFEFF;
  word-wrap: break-word;}
-.Style15{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
+.Style18{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
  font-size: 24px; 
  font-weight:500; 
  color: #FEFEFE;
  letter-spacing: 0.1em; 
  word-wrap: break-word;}
-.linkStyle_16{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+.linkStyle_19{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
  color: #000000;
  text-decoration: none; 
  /* 1 1 0 #00F900 #000000 #D5D5D5 */
- background-color: #FFFEFE; 
+ background-color: #FFFEFF; 
  word-wrap: break-word;}
-.linkStyle_16:visited{color:#000000; text-decoration:none;}
-.linkStyle_16:hover{color:#D5D5D5; text-decoration:none;}
-.linkStyle_19{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
+.linkStyle_19:visited{color:#000000; text-decoration:none;}
+.linkStyle_19:hover{color:#D5D5D5; text-decoration:none;}
+.linkStyle_22{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
  font-style: italic;
  color: #000000;
  text-decoration: none; 
  /* 1 1 0 #00F900 #000000 #D5D5D5 */
- background-color: #FFFEFE; 
+ background-color: #FFFEFF; 
  word-wrap: break-word;}
-.linkStyle_19:visited{color:#000000; text-decoration:none;}
-.linkStyle_19:hover{color:#D5D5D5; text-decoration:none;}
-.Style22{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
+.linkStyle_22:visited{color:#000000; text-decoration:none;}
+.linkStyle_22:hover{color:#D5D5D5; text-decoration:none;}
+.Style25{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
  font-style: italic;
  color: #444444;
- background-color: #FFFEFE; 
+ background-color: #FFFEFF; 
  word-wrap: break-word;}
-.Style23{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
+.Style26{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
- background-color: #FFFEFE; 
+ background-color: #FFFEFF; 
  word-wrap: break-word;}
-.Style24{font-family:  'AvenirNext-UltraLight', 'Avenir Next' ;
- font-size: 16px; 
- font-weight:700; 
- margin:0;
- word-wrap: break-word;}
-.para25{font-size: 0; text-align:center; padding-bottom:0px; margin-top:0px; padding-top:0px;}
-.Style26{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+.para27{font-size: 0; text-align:center; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style28{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
  font-size: 24px; 
  font-weight:500; 
  word-wrap: break-word;}
-.Style27{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
+.Style29{font-family:  'AvenirNext-Medium', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:500; 
  margin:0;
  word-wrap: break-word;}
-.Style28{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
+.Style30{font-family:  'AvenirNext-UltraLightItalic', 'Avenir Next' ;
  font-size: 16px; 
  font-weight:200; 
  font-style: italic;
@@ -105,21 +109,99 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
-.linkStyle_32{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
- font-size: 9px; 
+div.animated{height: 100%;width: 100%;}
+div.ew-animation-effect{height: 100%;width: 100%;}
+.ew-shape-border{top:0;left:0;height:100%;width:100%;position:absolute;overflow:visible;pointer-events:none;}
+.ew-sb-hidden{display:none}
+.ew-sb-pinned{position: fixed;z-index: 100000 !important;}
+.para39{font-size: 0; text-align:justify; padding-bottom:7px; margin-top:0px; padding-top:0px;}
+.Style40{font-family:  'Avenir Next Ultra Light', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ word-wrap: break-word;}
+.Style41{font-family:  'Avenir Next Ultra Light', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ font-style: italic;
+ word-wrap: break-word;}
+.Style42{font-family:  'Avenir Next Ultra Light', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ margin:0;
+ word-wrap: break-word;}
+.Style43{font-family:  'Avenir Next Medium', 'Avenir Next' ;
+ font-size: 16px; 
  font-weight:500; 
+ word-wrap: break-word;}
+.para44{font-size: 0; text-align:justify; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style45{font-family:  'AvenirNext-Regular', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:normal; 
+ margin:0;
+ word-wrap: break-word;}
+.Style46{font-family:  'Avenir Next Medium', 'Avenir Next' ;
+ font-size: 24px; 
+ font-weight:500; 
+ color: #FEFEFF;
+ letter-spacing: 0.05em; 
+ word-wrap: break-word;}
+.Style47{font-family:  'Avenir Next Medium', 'Avenir Next' ;
+ font-size: 24px; 
+ font-weight:500; 
+ color: #FEFEFE;
+ letter-spacing: 0.05em; 
+ word-wrap: break-word;}
+.Style48{font-family:  'Avenir Next Italic', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:normal; 
+ font-style: italic;
+ margin:0;
+ word-wrap: break-word;}
+.Style49{font-family:  'Avenir Next Italic', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:normal; 
+ font-style: italic;
+ word-wrap: break-word;}
+.Style50{font-family:  'Avenir Next Ultra Light Italic', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ font-style: italic;
+ word-wrap: break-word;}
+.Style51{font-family:  'Avenir Next Medium', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:500; 
+ margin:0;
+ word-wrap: break-word;}
+.linkStyle_52{font-family:  'Avenir Next Ultra Light', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
  color: #000000;
  text-decoration: none; 
  /* 1 1 0 #00F900 #000000 #919191 */
- letter-spacing: 0.15em; 
  word-wrap: break-word;}
-.linkStyle_32:visited{color:#000000; text-decoration:none;}
-.linkStyle_32:hover{color:#919191; text-decoration:none;}
-.linkStyle_35{font-family:  'Futura-Medium', 'Futura' ,'Arial' ,sans-serif ;
- font-size: 9px; 
- font-weight:500; 
+.linkStyle_52:visited{color:#000000; text-decoration:none;}
+.linkStyle_52:hover{color:#919191; text-decoration:none;}
+.Style55{font-family:  'Avenir Next Ultra Light', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:200; 
+ color: #323232;
+ word-wrap: break-word;}
+.Style56{font-family:  'Avenir Next Regular', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:normal; 
+ word-wrap: break-word;}
+.Style57{font-family:  'Avenir Next Regular', 'Avenir Next' ;
+ font-size: 16px; 
+ font-weight:normal; 
  margin:0;
- letter-spacing: 0.15em; 
  word-wrap: break-word;}
-.linkStyle_35:visited{color:#000000; text-decoration:none;}
-.linkStyle_35:hover{color:#919191; text-decoration:none;}
+.Style58{font-family:  'Avenir Next Medium', 'Avenir Next' ;
+ font-size: 17px; 
+ font-weight:500; 
+ letter-spacing: 0.02em; 
+ word-wrap: break-word;}
+.Style59{font-family:  'Avenir Next Regular', 'Avenir Next' ;
+ font-size: 17px; 
+ font-weight:normal; 
+ letter-spacing: 0.02em; 
+ word-wrap: break-word;}

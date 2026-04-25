@@ -1,14 +1,1 @@
-$(document).ready(function(){
-	$('a[href^="#"]').on('click',function (e) {
-	    e.preventDefault();
-
-	    var target = this.hash; //get everything after # in the href parameter
-	    var $target = $(target);
-
-	    $('html, body').stop().animate({
-	        'scrollTop': $target.offset().top
-	    }, 900, 'swing', function () {
-	        window.location.hash = target;
-	    });
-	});
-});
+document.addEventListener("DOMContentLoaded",(function(){function t(t){if(t){var e=document.querySelector("."+t);e||(e=document.getElementById(t)),e&&window.scrollTo({top:e.offsetTop,behavior:"smooth"})}}if(document.querySelectorAll('a[href^="#"]').forEach((e=>{e.addEventListener("click",(function(e){var o=this.getAttribute("href").substring(1);o&&(e.preventDefault(),t(o))}))})),window.location.hash){var e=window.location.hash.substring(1);e&&setTimeout((function(){t(e)}),100)}}));

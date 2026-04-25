@@ -57,6 +57,42 @@
 
 }
 
+.ewcf_row {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.ewcf_row .formControl {
+  flex: 1;
+  padding-right: 10px;
+  
+}
+
+.ewcf_row .formControl:last-child {
+  padding-right: 0 !important;
+}
+
+.ew_cfad hr {
+	border: none;
+}
+
+.ewcf_row label,
+.ewcf_row input:not([type="radio"]):not([type="checkbox"]) ,
+.ewcf_row textarea {
+  width: 100%;
+  padding: 5px;
+}
+
+.ew_cfad .ew-checkbox-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.ew_cfad .ew-checkbox-container .ew-checkbox-column {
+  flex: 1;
+}
 
 .upload_progress{
    display:none;
